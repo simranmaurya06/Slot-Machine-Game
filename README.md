@@ -1,4 +1,4 @@
-n the script and deposit you**Slot Machine Game**
+**Slot Machine Game**
 
 A console-based slot machine game built in Python, where players can deposit funds, place bets, and spin the reels for a chance to win. This project is perfect for learning Python basics like functions, loops, and conditionals.
 
